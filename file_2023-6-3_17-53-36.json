@@ -1,0 +1,310 @@
+[
+  {
+    "question": " 1. ¿Cuál es la razón principal por la que la distancia mínima entre el conductor y el volante debe ser de 25 cm?\n",
+    "options": [
+      "A) Porque el cinturón de seguridad es mas eficaz ",
+      "B) Porque es la distancia de acción del airbag al explotar ",
+      "C) Porque al sentarse a mayor distancia no tendría suficiente visibilidad "
+    ],
+    "correctAnswers": [1]
+  },
+  {
+    "question": " 2. Usted esta a punto de conducir su vehículo, pero de repente se siente enfermo, En ese momento debería...\n",
+    "options": [
+      "A) Prometerse a usted mismo que se va a acostar en cuanto haya llegado a casa. ",
+      "B) No conducir el vehículo. ",
+      "C) Acortar el viaje si es posible. "
+    ],
+    "correctAnswers": [1]
+  },
+  {
+    "question": " 3. Los accidentes de tránsito son la principal causa de mortalidad para los jóvenes entre 15 y 29 años. En este contexto las principales causas de éstos accidentes son:\n",
+    "options": [
+      "A) Las fallas mecánicas del vehículo. ",
+      "B) La sobrevaloración de las capacidades y el exceso de velocidad. ",
+      "C) Ninguna de las mencionadas. "
+    ],
+    "correctAnswers": [1]
+  },
+  {
+    "question": " 4. ¿Si su vehículo cuenta con placa patente terminada en dígito 6, la revisión técnica será en el mes de...\n",
+    "options": ["A) Marzo ", "B) Mayo ", "C) Abril ", "D) Septiembre "],
+    "correctAnswers": [3]
+  },
+  {
+    "question": " 5. ¿Qué distancia puede recorrer un vehículo en marcha atrás por la calzada?\n",
+    "options": [
+      "A) 150 metros. ",
+      "B) 100 metros. ",
+      "C) Ninguna de las mencionadas "
+    ],
+    "correctAnswers": [2]
+  },
+  {
+    "question": " 6. Cuales son las causas de deterioro de los neumáticos más comunes:\n",
+    "options": [
+      "A) La presión alta ",
+      "B) La presión baja ",
+      "C) Corte profundo en el lateral producido por objeto cortante. "
+    ],
+    "correctAnswers": [1, 0, 2]
+  },
+  {
+    "question": " 7. Las luces de advertencia de peligro deberían ser usadas:\n",
+    "options": [
+      "A) Para advertir a quienes vienen detrás suyo que usted pretende virar. ",
+      "B) Para advertir a los demás que usted tiene prisa. ",
+      "C) Cuando estaciona en doble fila respecto a otro vehículo estacionado junto a la cuneta. ",
+      "D) Para advertir a quienes vienen detrás de un peligro que hay más adelante. "
+    ],
+    "correctAnswers": [3]
+  },
+  {
+    "question": " 8. Vía o conjunto de vías emplazadas en zonas urbanas, definidas dentro de una determinada área geográfica, en las que a través de condiciones físicas u operacionales de las vías se establecen velocidades máximas de circulación inferiores a las establecidas en la ley, pudiendo estas ser de 40 kilómetros por hora, 30 kilómetros por hora o 20 kilómetros por hora.\n",
+    "options": [
+      "A) Definición corresponde a Zona Céntrica ",
+      "B) Definición corresponde a Zona de Escuela ",
+      "C) Definición corresponde a Zona de Tránsito Calmado "
+    ],
+    "correctAnswers": [2]
+  },
+  {
+    "question": " 9. Consumir algunos antihistamínicos es equivalente a estar:\n",
+    "options": [
+      "A) Ambos ",
+      "B) Bajo la influencia del alcohol ",
+      "C) Bajo estado de ebriedad "
+    ],
+    "correctAnswers": [1]
+  },
+  {
+    "question": " 10. Al ir conduciendo en un túnel, sufre un desperfecto en éste, usted debe:\n",
+    "options": [
+      "A) Colocarse el chaleco reflectante ",
+      "B) Si puede mover su vehículo sáquelo del túnel, o bien, acérquese lo más posible a la derecha e idealmente a un lugar especialmente habilitado para emergencias. ",
+      "C) Apague el motor y espere por ayuda. ",
+      "D) Siga las instrucciones del personal del túnel. "
+    ],
+    "correctAnswers": [1, 2, 3, 0]
+  },
+  {
+    "question": " 11. ¿En qué situación puede usted usar la bocina de su vehículo?\n",
+    "options": [
+      "A) Cuando quiere apurar a peatones que van cruzando. ",
+      "B) Cuando saluda a otros usuarios de la vía. ",
+      "C) Cuando desea manifestar su disgusto. ",
+      "D) Cuando trata de prevenir a otros acerca de un peligro. "
+    ],
+    "correctAnswers": [3]
+  },
+  {
+    "question": " 12. Encuestas a nivel mundial estiman que los varones jóvenes:\n",
+    "options": [
+      "A) Sobreestiman su habilidad para conducir. ",
+      "B) Subvaloran su capacidad para conducir. ",
+      "C) Creen que los accidentes dependen del tránsito. "
+    ],
+    "correctAnswers": [0]
+  },
+  {
+    "question": " 13. ¿Qué significa esta señal de ciclistas?\n",
+    "options": [
+      "A) Que se acerca a una zona donde es muy probable la presencia de ciclistas en la vía. ",
+      "B) Que los ciclistas deben circular en sentido contrario. ",
+      "C) Que se acerca a una zona en la que no se permiten bicicletas. ",
+      "D) Que los ciclistas deben circular por la pista de la derecha. "
+    ],
+    "correctAnswers": [0]
+  },
+  {
+    "question": " 14. Se recomienda que los niños menores de 4 años de edad:\n",
+    "options": [
+      "A) Viajen como queden más cómodos para que no distraigan al conductor ",
+      "B) Viajen mirando hacia adelante, en el sentido de la marcha del vehículo ",
+      "C) Viajen mirando hacia atrás, contra el sentido de la marcha "
+    ],
+    "correctAnswers": [2]
+  },
+  {
+    "question": " 15. ¿Cuál es la distancia máxima a la que deben estacionarse los vehículos de la cuneta?\n",
+    "options": [
+      "A) 20 centímetros. ",
+      "B) 30 centímetros. ",
+      "C) 60 centímetros. "
+    ],
+    "correctAnswers": [1]
+  },
+  {
+    "question": " 16. Fumar mientras se conduce puede provocar...\n",
+    "options": [
+      "A) Distracciones y problemas de visión a causa del humo. ",
+      "B) Un aumento de la capacidad de reacción. ",
+      "C) Somnolencia. "
+    ],
+    "correctAnswers": [0]
+  },
+  {
+    "question": " 17. Que provoca un sobreviraje:\n",
+    "options": [
+      "A) El sobreviraje casi siempre es provocado por el conductor ",
+      "B) El sobreviraje casi siempre es provocado por las condiciones climaticas ",
+      "C) El sobreviraje casi siempre es provocado por el estado de la direccion "
+    ],
+    "correctAnswers": [0]
+  },
+  {
+    "question": " 18. Las luces de niebla traseras son de gran importancia para ser visto por quienes circulan atrás, pero úselas sólo:\n",
+    "options": [
+      "A) Cuando la niebla es espesa ",
+      "B) Solo cuando la niebla es leve ",
+      "C) Cuando exista solo niebla en la noche "
+    ],
+    "correctAnswers": [0]
+  },
+  {
+    "question": " 19. Usted está esperando poder incorporarse a una vía principal desde una calle lateral. ¿Por qué razón debería usted poner especial atención a las motocicletas?\n",
+    "options": [
+      "A) Porque generalmente las motocicletas circulan más rápido que los autos. ",
+      "B) Porque las patrullas de Carabineros suelen andar en motocicletas. ",
+      "C) Porque las motocicletas tienen el derecho preferente de paso. ",
+      "D) Porque las motocicletas son pequeñas y difíciles de ver. "
+    ],
+    "correctAnswers": [3]
+  },
+  {
+    "question": " 20. Se entiende que un conductor está bajo la influencia del alcohol cuando éste presenta una concentración:\n",
+    "options": [
+      "A) Mayor a 0,31 e inferior a 0,79 gramos por mil de alcohol en la sangre. ",
+      "B) Inferior a 0,3 gramos por mil de alcohol en la sangre. ",
+      "C) Mayor a 1,0 e inferior a 1,5 gramos por mil de alcohol en la sangre. ",
+      "D) Mayor a 0,1 e inferior a 0,5 gramos por mil de alcohol en la sangre. "
+    ],
+    "correctAnswers": [0]
+  },
+  {
+    "question": " 21. Indique qué significan estas señales:\n",
+    "options": [
+      "A) Mantenga su derecha, Silencio, Velocidad sugerida. ",
+      "B) Pista Solo autos, No Molestar, Velocidad mínima. ",
+      "C) Mantenga su derecha, Silencio, Velocidad máxima. "
+    ],
+    "correctAnswers": [2]
+  },
+  {
+    "question": " 22. Desde el punto de vista de los riesgos al conducir, ¿Qué grupo está más dispuesto a tomarlos?\n",
+    "options": [
+      "A) Los conductores que tienen a cargo vehículos de trabajo ",
+      "B) Los jóvenes ",
+      "C) Los adultos con mayor experiencia "
+    ],
+    "correctAnswers": [1]
+  },
+  {
+    "question": " 23. Si un vehículo tiene caja de cambio manual y su conductor desea estacionarlo en una pendiente descendente (BAJADAS), además de poner freno de mano, ¿Qué otra preocupación se debe tomar para llevar a cabo la maniobra?\n",
+    "options": [
+      "A) Colocar la primera marcha. ",
+      "B) Colocar marcha atrás. ",
+      "C) Colocar la posición de estacionamiento. "
+    ],
+    "correctAnswers": [1]
+  },
+  {
+    "question": " 24. A medida que aumenta la velocidad, se reduce:\n",
+    "options": [
+      "A) El campo visual del conductor ",
+      "B) La distancia para detenerse ",
+      "C) El tiempo de reacción "
+    ],
+    "correctAnswers": [0]
+  },
+  {
+    "question": " 25. ¿En qué situación retrocede usted con su vehículo en un cruce?\n",
+    "options": [
+      "A) En ningún momento. ",
+      "B) Sólo si ha quedado detenido sobre el paso de peatones. ",
+      "C) Si no hay nadie detrás suyo. ",
+      "D) Sólo si recibe indicación expresa de un Carabinero. "
+    ],
+    "correctAnswers": [3]
+  },
+  {
+    "question": " 26. ¿Tiene alguna obligación cuando su vehículo va a ser adelantado?\n",
+    "options": [
+      "A) Sí, señalizar con el intermitente derecho para indicar que puede realizar la maniobra con seguridad. ",
+      "B) No, la responsabilidad es del vehículo que adelanta ",
+      "C) Sí, acercarse al borde derecho de la calzada para facilitar la maniobra "
+    ],
+    "correctAnswers": [2]
+  },
+  {
+    "question": " 27. Corresponde la cancelación de la licencia de conducir si el conductor es sorprendido en 3 ocasiones tras conducir en estado de ebriedad. ¿Es esta afirmación verdadera?\n",
+    "options": ["A) No. ", "B) Sí. "],
+    "correctAnswers": [1]
+  },
+  {
+    "question": " 28. Trasladar a niños menores de 12 años en el asiento delantero y a niños de 8 años inclusive sin un Sistema de Retención Infantil en el asiento trasero, corresponden a:\n",
+    "options": [
+      "A) Una falta grave ",
+      "B) Una falta menos graves ",
+      "C) Una falta gravisima "
+    ],
+    "correctAnswers": [2]
+  },
+  {
+    "question": " 29. De las siguientes capacidades de un individuo, ¿cuál o cuáles de ellas NO se ve afectada por el consumo de alcohol?\n",
+    "options": [
+      "A) El juicio acerca de la velocidad. ",
+      "B) Los tiempos de reacción. ",
+      "C) Ninguna de las mencionadas ",
+      "D) La coordinación. "
+    ],
+    "correctAnswers": [2]
+  },
+  {
+    "question": " 30. La distancia de frenado depende del estado de la calzada, de los neumáticos, del sistema de frenos y de la velocidad:\n",
+    "options": ["A) Verdadero ", "B) Falso "],
+    "correctAnswers": [0]
+  },
+  {
+    "question": " 31. Existe un mayor riesgo de somnolencia en vías con...\n",
+    "options": [
+      "A) Camino monótono. ",
+      "B) Mucho tránsito. ",
+      "C) Muchas curvas. "
+    ],
+    "correctAnswers": [0]
+  },
+  {
+    "question": " 32. ¿Qué se RECOMIENDA para NO hacer patinar el vehículo en una curva?\n",
+    "options": [
+      "A) Frenadas fuertes. ",
+      "B) Correcciones bruscas en la dirección con aceleraciones ",
+      "C) Para trazar una curva hay que posicionarse lo más pegado posible hacia el lado contrario del giro de la curva "
+    ],
+    "correctAnswers": [2]
+  },
+  {
+    "question": " 33. En una situación con mucho tránsito...\n",
+    "options": [
+      "A) Disminuye el tiempo de reacción. ",
+      "B) Disminuye la fatiga. ",
+      "C) Aumenta la fatiga. "
+    ],
+    "correctAnswers": [2]
+  },
+  {
+    "question": " 34. La pérdida de la agudeza visual que se pueda corregir mediante el empleo de anteojos o lentes de contacto no impide que se pueda obtener una licencia para conducir. En este caso es aconsejable llevar unos lentes de repuesto.\n",
+    "options": ["A) Falso. ", "B) Verdadero. "],
+    "correctAnswers": [1]
+  },
+  {
+    "question": " 35. Seleccione las reglas de oro para la conducción en Chile:\n",
+    "options": [
+      "A) 3ºRegla CINTURÓN: ",
+      "B) 4ºRegla SILLA BEBÉ ",
+      "C) 2ºRegla ALCOHOL ",
+      "D) 1ºRegla VELOCIDAD: "
+    ],
+    "correctAnswers": [3, 2, 0, 1]
+  }
+]

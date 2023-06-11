@@ -1,0 +1,300 @@
+[
+  {
+    "question": " 1. Si usted va detrás de un vehículo con patentes extranjeras, que acción debe tomar:\n",
+    "options": [
+      "A) Adelantar Rapidamente ",
+      "B) Aumentar su distancia entre vehículos ",
+      "C) Estar lo más cerca del vehículo extranjero, por si necesita algún tipo de ayuda. "
+    ],
+    "correctAnswers": [1]
+  },
+  {
+    "question": " 2. Ante la aproximación de un vehículo de emergencia con el uso de señales luminosas y acústicas, que debe realizar ud:\n",
+    "options": [
+      "A) Usted deberá cederles el derecho a vía, ya sea desplazándose hacia un lado en la calzada y deteniéndose si es necesario ",
+      "B) Usted solo le dará el paso a Carabineros ",
+      "C) Usted deberá avanzar conjuntamente ya sea desplazándose hacia un lado en la calzada y deteniéndose si es necesario "
+    ],
+    "correctAnswers": [0]
+  },
+  {
+    "question": " 3. La amortiguación, ¿contribuye a prevenir los accidentes?\n",
+    "options": [
+      "A) No, sólo contribuye a la comodidad. ",
+      "B) No, en ningún caso. ",
+      "C) Sí, estos sistemas tienen un papel clave para mantener la trayectoria deseada y para absorber las irregularidades del asfalto. "
+    ],
+    "correctAnswers": [2]
+  },
+  {
+    "question": " 4. Usted llega al lugar de un accidente en el que ha participado un motociclista. El motociclista se encuentra consciente, pero en estado de shock. ¿De qué debería asegurarse usted?\n",
+    "options": [
+      "A) Que al motociclista se le ayude a ponerse de pie. ",
+      "B) Que al motociclista se le dé algo para beber. ",
+      "C) Que el motociclista no se saque el casco. ",
+      "D) Que el motociclista se saque el casco. "
+    ],
+    "correctAnswers": [2]
+  },
+  {
+    "question": " 5. Si estás conduciendo en zona rural, como en esta imagen, ¿Qué peligros debes considerar?\n",
+    "options": [
+      "A) Que sorpresivamente aparezca un animal ",
+      "B) Que venga un vehículo en sentido contrario e invada la pista cortando el paso ",
+      "C) Que después de la curva exista un vehículo detenido en pana "
+    ],
+    "correctAnswers": [1, 2, 0]
+  },
+  {
+    "question": " 6. En zonas densamente pobladas, cuando la visibilidad esté reducida por mal tiempo, al aproximarse o ingresar a una curva, al aproximarse a la cima de una cuesta, entre otros, USTED deberá:\n",
+    "options": [
+      "A) Encender las luces bajas para que los demás usuarios puedan verlo y así reducir el riesgo de accidentes ",
+      "B) Reducir obligatoriamente la velocidad por el mayor riesgo de accidentes ",
+      "C) Tocar la bocina para advertir a los demás usuarios de su presencia con el objetivo de reducir el riesgo de accidentes "
+    ],
+    "correctAnswers": [1]
+  },
+  {
+    "question": " 7. Un bus está detenido en una parada delante suyo. El intermitente izquierdo del bus está parpadeando. ¿Qué hace usted?\n",
+    "options": [
+      "A) Toca la bocina y continúa. ",
+      "B) Disminuye la velocidad y luego toca la bocina. ",
+      "C) Disminuye la velocidad y cede el paso al bus, siempre que ello sea seguro. ",
+      "D) Hace parpadear sus luces delanteras y disminuye la velocidad. "
+    ],
+    "correctAnswers": [2]
+  },
+  {
+    "question": " 8. Si el motor de su vehículo se sobrecalienta, ¿Cuál será posiblemente su causa?\n",
+    "options": [
+      "A) Bajo nivel del líquido de frenos. ",
+      "B) Bajo nivel de agua en la batería. ",
+      "C) Batería con poca carga. ",
+      "D) Falta de líquido refrigerante. "
+    ],
+    "correctAnswers": [3]
+  },
+  {
+    "question": " 9. Si usted ha ingerido alcohol, ¿cuál o cuáles son los efectos más probables que puede presentar?\n",
+    "options": [
+      "A) Su autoconfianza se incrementará. ",
+      "B) Su juicio empeorará. ",
+      "C) Su capacidad de coordinación se reducirá. ",
+      "D) Todas las mencionadas "
+    ],
+    "correctAnswers": [3]
+  },
+  {
+    "question": " 10. Un ralentí demasiado alto provoca:\n",
+    "options": [
+      "A) Un mayor consumo de combustible. ",
+      "B) Una mejor potencia. ",
+      "C) Menor consumo de aceite. "
+    ],
+    "correctAnswers": [0]
+  },
+  {
+    "question": " 11. ¿Cuál de los siguientes elementos influyen al momento de elegir un sistema de retención infantil (Sri)?\n",
+    "options": [
+      "A) Extensión y duración del viaje. ",
+      "B) Características del vehículo. ",
+      "C) Sexo del niño. "
+    ],
+    "correctAnswers": [1]
+  },
+  {
+    "question": " 12. Indique cuál de los siguientes es un factor de riesgo externo durante la conducción.\n",
+    "options": [
+      "A) El no usar el cinturón de seguridad. ",
+      "B) Los peatones que circulan por la berma. ",
+      "C) Las aceleraciones innecesarias. "
+    ],
+    "correctAnswers": [1]
+  },
+  {
+    "question": " 13. El efecto paracaídas (cuando ingresa aire a la cabina) se produce sobre los :\n",
+    "options": ["A) 50 km/hr ", "B) 30 km/hr ", "C) 60 km/hr "],
+    "correctAnswers": [2]
+  },
+  {
+    "question": " 14. La fatiga puede producir efectos similares...\n",
+    "options": [
+      "A) A una dosificación de alcohol de 0,5 gramos por mil de sangre. ",
+      "B) A un consumo pequeño de cocaína. ",
+      "C) A un consumo de marihuana. "
+    ],
+    "correctAnswers": [0]
+  },
+  {
+    "question": " 15. La licencia de conductor se debe solicitar en la municipalidad correspondiente al lugar de residencia:\n",
+    "options": ["A) Verdadero ", "B) Falso "],
+    "correctAnswers": [0]
+  },
+  {
+    "question": " 16. Corresponde la cancelación de la licencia de conducir si el conductor es sorprendido en 3 ocasiones tras conducir en estado de ebriedad. ¿Es esta afirmación verdadera?\n",
+    "options": ["A) Sí. ", "B) No. "],
+    "correctAnswers": [0]
+  },
+  {
+    "question": " 17. ¿Cuál o cuáles de las siguientes afirmaciones son correctas en cuanto a la conducción durante la noche?\n",
+    "options": [
+      "A) El color de las ropas de un peatón influye en que éste pueda ser más o menos visible para los conductores. ",
+      "B) Nuestra capacidad de apreciar distancias en la noche se ve disminuida. ",
+      "C) Nuestra limitada capacidad para ver de noche aumenta los riesgos de accidentes. ",
+      "D) En carretera, con luces bajas es posible ver las marcas en el pavimento a 200 m y más. "
+    ],
+    "correctAnswers": [2, 1, 0]
+  },
+  {
+    "question": " 18. ¿Qué hacer en caso de accidente de tránsito?\n",
+    "options": [
+      "A) Conducir al centro de salud más próximo y dar aviso. ",
+      "B) Continuar la marcha. ",
+      "C) Conducir a la comisaria más cercana y dar aviso a carabineros. ",
+      "D) Detener su marcha, prestar ayuda si fuese posible y dar aviso a las autoridades del hecho. "
+    ],
+    "correctAnswers": [3]
+  },
+  {
+    "question": " 19. Mientras más carga haya en el vehículo, mayor es la fuerza que se debe hacer para moverlo.\n",
+    "options": ["A) Verdadero ", "B) Falso "],
+    "correctAnswers": [0]
+  },
+  {
+    "question": " 20. Cuando la calzada está con hielo la distancia de frenado puede ser...\n",
+    "options": [
+      "A) 10 veces la distancia normal. ",
+      "B) 5 veces la distancia normal. ",
+      "C) 7 veces la distancia normal. ",
+      "D) 2 veces la distancia normal. "
+    ],
+    "correctAnswers": [0]
+  },
+  {
+    "question": " 21. Un conductor va circulando por la pista de la derecha en una carretera doble calzada muy transitada y una señal le indica que a 800 metros su pista está cerrada. ¿Qué debe hacer?\n",
+    "options": [
+      "A) Encender las luces de advertencia de peligro y cambiarse a la pista izquierda ",
+      "B) Desplazarse hacia la pista de su izquierda tan pronto pueda hacerlo en forma segura ",
+      "C) Continuar hasta llegar a la obstrucción y luego cambiarse hacia la pista izquierda "
+    ],
+    "correctAnswers": [1]
+  },
+  {
+    "question": " 22. Usted va conduciendo por una calle de dos pistas y de doble sentido de tránsito en la cual hay vehículos estacionados al costado derecho. ¿Porque razón usted debe disminuir su velocidad?\n",
+    "options": [
+      "A) Entre los autos estacionados puede haber un niño al interior del vehículo ",
+      "B) Pueden salir vehículos de su estacionamiento, Alguien puede abrir una puerta de un auto estacionado. ",
+      "C) Para poder ser visto con mayor claridad por el tránsito que viene en contra. "
+    ],
+    "correctAnswers": [1]
+  },
+  {
+    "question": " 23. En relación con el adelantamiento, ¿Cuál de las siguientes afirmaciones es FALSA?\n",
+    "options": [
+      "A) Es importante que el vehículo adelantado no aumente su velocidad ",
+      "B) Si se tiene línea continua a la izquierda de la calzada no está permitido ",
+      "C) Si se tiene línea segmentada o discontinua a la izquierda de la calzada no está permitido adelantar "
+    ],
+    "correctAnswers": [2]
+  },
+  {
+    "question": " 24. Un conductor es testigo de un accidente de transito donde hay personas lesionadas ¿Que NO debe hacer el conductor testigo ?\n",
+    "options": [
+      "A) Llevar a alguno de los lesionados en su vehículos. ",
+      "B) Entrar con los lesionados y entregar al personal médico su información personal antes de retirarse y retomar sus actividades ",
+      "C) Entrar con los lesionados, y esperar con ellos hasta que algún miembro de la familia llegue y encarguen de ellos "
+    ],
+    "correctAnswers": [0]
+  },
+  {
+    "question": " 25. Debido a un desperfecto, el conductor de un vehículo queda inmovilizado en el interior de un túnel, ¿Qué medidas deberá tomar el conductor ?\n",
+    "options": [
+      "A) Con el motor encendido, activar las luces intermitentes y tocar la bocina para avisar a los otros conductores, manteniéndose dentro del vehículo. ",
+      "B) Activar las luces de posición para luego abandonar el vehículo junto a los pasajeros que viajen en el mismo, hasta llegar a una zona de seguridad. ",
+      "C) Apagar el motor, encender las luces de emergencia para avisar a los demás conductores y descender del vehículo para solicitar ayuda, siempre sea necesario "
+    ],
+    "correctAnswers": [2]
+  },
+  {
+    "question": " 26. El cuerpo libera el alcohol mediante el proceso de metabolizacion. En el caso de un conductor que bebió bastante en un tiempo de 4 horas (0,50 g/l por hora) y duerme durante 8 horas ¿Cuál será el tiempo estimado para que la curva de alcohol llegue a cero?\n",
+    "options": [
+      "A) 10 horas aproximadamente ",
+      "B) 20 horas aproximadamente ",
+      "C) 8 horas aproximadamente "
+    ],
+    "correctAnswers": [1]
+  },
+  {
+    "question": " 27. ¿Dónde está ubicado el sistema ABS?\n",
+    "options": ["A) Frenos ", "B) Neumáticos ", "C) Motor "],
+    "correctAnswers": [0]
+  },
+  {
+    "question": " 28. Si un conductor va circulando por la calzada que se observa en la imagen, ¿A cuál riesgo debería poner MENOS atención?\n",
+    "options": [
+      "A) A los niños que puedan salir a la calzada por entre los autos ",
+      "B) A la puertas de autos que pueden ser abiertas ",
+      "C) Al tránsito en la intersección que hay más adelante "
+    ],
+    "correctAnswers": [2]
+  },
+  {
+    "question": " 29. ¿En cuál de las siguientes ocasiones debe usted detener siempre con su vehículo?\n",
+    "options": [
+      "A) Al verse involucrado en un accidente, Al enfrentar una luz roja de un semáforo, Cuando un Carabinero se lo solicita. ",
+      "B) Al enfrentar una señal CEDA EL PASO. ",
+      "C) Cuando un semáforo enciende su luz amarilla. "
+    ],
+    "correctAnswers": [0]
+  },
+  {
+    "question": " 30. ¿Cuál afirmación es correcta en relación al uso de rotondas y mini-rotondas?\n",
+    "options": [
+      "A) Tanto en una mini-rotonda como en una rotonda, el conductor que ingresa debe siempre ceder el paso a los vehículos que circulan por ellas ",
+      "B) Al ingresar a una rotonda un conductor debe ceder el paso a los vehículos que circulan en ella, sin embargo este conductor tiene preferencia al ingresar a una mini-rotonda ",
+      "C) Tanto en una mini-rotonda como en una rotonda el conductor que ingresa tiene preferencia sobre otros vehículos que circulan por ellas "
+    ],
+    "correctAnswers": [0]
+  },
+  {
+    "question": " 31. ¿Si su vehículo cuenta con placa patente terminada en dígito 6, la revisión técnica será en el mes de...\n",
+    "options": ["A) Abril ", "B) Mayo ", "C) Septiembre ", "D) Marzo "],
+    "correctAnswers": [2]
+  },
+  {
+    "question": " 32. ¿Qué es una Intersección?\n",
+    "options": [
+      "A) Área común de calzadas que se cruzan o convergen. ",
+      "B) La línea longitudinal a la calzada, demarcada o imaginaria, que determinará las áreas con sentido de tránsito opuesto de la misma; al ser imaginaria, la división es en dos partes iguales. ",
+      "C) Cruce en que existe semáforo funcionando normalmente, excluyendo la intermitencia, o hay Carabinero dirigiendo el tránsito. "
+    ],
+    "correctAnswers": [0]
+  },
+  {
+    "question": " 33. ¿A qué tipo de falta se expone al llevar a un niño en un vehiculo en condiciones inseguras?\n",
+    "options": [
+      "A) Falta gravísima y la suspensión de la licencia de conductor de 5 a 45 días. ",
+      "B) Falta grave y la suspensión de la licencia de conductor de 5 días. ",
+      "C) Falta leve, sin suspensión de licencia "
+    ],
+    "correctAnswers": [0]
+  },
+  {
+    "question": " 34. ¿Cuáles son los primeros síntomas de cansancio?\n",
+    "options": [
+      "A) Se comienza a sentir dificultad para mantener la dirección. ",
+      "B) Se comienza a sentir calor y agresividad. ",
+      "C) Se comienza a sentir falta de interés y aparecen los bostezos. "
+    ],
+    "correctAnswers": [2]
+  },
+  {
+    "question": " 35. Ningún vehículo puede ser conducido marcha atrás, a menos que:\n",
+    "options": [
+      "A) La maniobra sea indispensable para mantener la libre circulación fuera de un cruce. ",
+      "B) Sea necesario para estacionar o en los cruces, no se puede realizar la maniobra de marcha atrás excepto por indicación expresa de un Carabinero. ",
+      "C) Porque se paso del lugar donde se dirigía "
+    ],
+    "correctAnswers": [0, 1]
+  }
+]
